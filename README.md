@@ -1,5 +1,3 @@
-Projects TypeScript
-
 # 📘 TypeScript Folder
 
 ## 🎯 Purpose
