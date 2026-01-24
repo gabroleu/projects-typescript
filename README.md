@@ -34,6 +34,7 @@ Organization is not aesthetics. It is operational performance.
 ## 🛠️ Base Stack
 
 * TypeScript
+* Javascript
 * Node.js
 * ts-node / strict tsconfig
 * ESLint + Prettier
