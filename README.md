@@ -16,7 +16,7 @@ If it compiles but isn’t readable, it failed.
 
 ---
 
-## 🗂️ Recommended Structure
+## 🗂️ Structure
 
 ```
 typescript/
