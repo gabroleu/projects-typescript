@@ -31,7 +31,7 @@ Organization is not aesthetics. It is operational performance.
 
 ---
 
-## 🛠️ Base Stack
+## 🛠️ Stacks
 
 * TypeScript
 * Javascript
