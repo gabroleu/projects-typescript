@@ -1,4 +1,4 @@
-# 📘 TypeScript Folder
+# 📘 TypeScript 
 
 ## 🎯 Purpose
 
